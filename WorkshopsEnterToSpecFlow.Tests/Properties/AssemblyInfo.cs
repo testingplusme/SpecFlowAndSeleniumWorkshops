@@ -4,11 +4,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("WorkshopsEnterToSpecFlow")]
+[assembly: AssemblyTitle("WorkshopsEnterToSpecFlow.Tests")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("WorkshopsEnterToSpecFlow")]
+[assembly: AssemblyProduct("WorkshopsEnterToSpecFlow.Tests")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -19,7 +19,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("ef9d5e6a-114f-4d94-a82c-ee2e358e7968")]
+[assembly: Guid("eb29969b-9b1a-4790-b807-f4b628a766c3")]
 
 // Version information for an assembly consists of the following four values:
 //
